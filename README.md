@@ -15,3 +15,7 @@ publish my notes. This is done to encourage team members to actually read the re
 
 Inside of the `/readings` folder, there will be a Markdown document for each reading. Inside of the Markdown document,
 there will be a link to the original source reading as well as my personal notes on the reading. 
+
+### Contributing
+
+Simply create a pull request with your changes and I'll review and merge it.
